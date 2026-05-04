@@ -4,9 +4,9 @@
 [fecha]
 
 ## Asistentes
-- Lorena López Bermúdez — rol TBD
-- Marcos García Manzano — rol TBD
-- Camilo — rol TBD
+- Lorena López Bermúdez — SM
+- Marcos García Manzano — PO
+- Camilo — Dev
 - Stakeholders (otros grupos de clase)
 
 ## Sprint Goal
