@@ -8,9 +8,9 @@ Simulación de un sprint Scrum completo para construir **AlbaranIA**: una plataf
 
 | Miembro | Rol |
 |---------|-----|
-| Lorena López Bermúdez | TBD |
-| Marcos García Manzano | TBD |
-| Camilo | TBD |
+| Lorena López Bermúdez | SM |
+| Marcos García Manzano | PO |
+| Camilo | Dev |
 
 > Roles (PO / SM / Dev) por asignar entre los 3 miembros.
 
